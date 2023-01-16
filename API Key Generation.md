@@ -52,6 +52,6 @@
 
 ### 4. Scroll down here you will find your API Key 
 
-<img src='https://github.com/VetlaPavanKalyan/Stock-Price-Prediction/blob/main/images/2023-01-17%20(3).jpg' alt='key_final-f'>
+<img src='https://github.com/VetlaPavanKalyan/Stock-Price-Prediction/blob/a2d010bc3035f28e6337a54b04a7edc084362c94/images/2023-01-17%20(3).jpg' alt='key_final-f'>
 
 ## Copy your API Key and return to the Notebook
